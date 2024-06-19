@@ -25,18 +25,18 @@ static const int new_window_attach_on_end = 0;  /*  1 means the new window will 
 static const char *fonts[]          = {"Fira Mono Nerd Font:style:size=8"};
 static const char dmenufont[]       = "Fira Mono Nerd Font:size=9";
 
-static const char black[]       = "#1a1b26";
-static const char white[]       = "#a9b1d6";
-static const char gray2[]       = "#24283b"; // unfocused window border
-static const char gray3[]       = "#414868";
-static const char gray4[]       = "#565f89";
-static const char blue[]        = "#7aa2f7";  // focused window border
-static const char green[]       = "#9ece6a";
-static const char red[]         = "#f7768e";
-static const char orange[]      = "#ff9e64";
-static const char yellow[]      = "#e0af68";
-static const char pink[]        = "#bb9af7";
-static const char col_borderbar[]  = "#1a1b26"; // inner borderpx
+static const char black[]       = "#101010";
+static const char white[]       = "#b9b9b9";
+static const char gray2[]       = "#8e8e8e"; // unfocused window border
+static const char gray3[]       = "#7c7c7c";
+static const char gray4[]       = "#252525";
+static const char blue[]        = "#5f819d";  // focused window border
+static const char green[]       = "#8c9440";
+static const char red[]         = "#a54242";
+static const char orange[]      = "#de935f";
+static const char yellow[]      = "#f0c674";
+static const char pink[]        = "#b294bb";
+static const char col_borderbar[]  = "#101010"; // inner borderpx
 
 static char *tags[] = {"1", "2", "3", "4", "5", "6", "7", "8", "9"};
 
