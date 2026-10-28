@@ -13,7 +13,7 @@ static const int topbar             = 1;        /* 0 means bottom bar */
 static const int vertpad            = 12;       /* vertical padding of bar */
 static const int sidepad            = 12;       /* horizontal padding of bar */
 static const int user_bh            = 40;        /* 0 means that dwm will calculate bar height, >= 1 means dwm will user_bh as bar height */
-static const char *fonts[]          = { "JetBrains Mono:size=10" };
+static const char *fonts[]          = { "JetBrains Mono:size=10", "Symbols Nerd Font:size=10" };
 static const char dmenufont[]       = "JetBrains Mono:size=10";
 static const char bg[]		    = "#201C1D"; /* bar background */
 static const char bg_status[]       = "#342F31"; /* unfocused window border */ 
